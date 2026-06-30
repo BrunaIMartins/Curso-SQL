@@ -1,0 +1,1 @@
+select placa, marca, ano from tbl_veiculos limit 5;
